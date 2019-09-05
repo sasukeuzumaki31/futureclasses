@@ -1,0 +1,5 @@
+THIS IS A PROJECT ON A HYPOTHETIC COACHING CLASS NAMED FUTURE CLASSES.
+PLZ OPEN nim_project first.
+you can navigate between pages using the navbar.
+
+NIMESH NAIR.
